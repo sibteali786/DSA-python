@@ -1,4 +1,4 @@
-# DSA-python ( Credits [CodeBasics](https://youtu.be/gDqQf4Ekr2A))
+# DSA-Python ( Credits [CodeBasics](https://youtu.be/gDqQf4Ekr2A))
 Data Structure and Algorithm practice questions and exercises from CodeBasics.
 
 # Data Structures and Algorithms from Codebasics Channel
