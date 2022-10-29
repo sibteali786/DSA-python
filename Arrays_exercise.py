@@ -38,3 +38,7 @@ expenses.append(1980)
 expenses[3] = expenses[3] - 200
 print(expenses)
 
+
+# Task No 2
+heros=['spider man','thor','hulk','iron man','captain america']
+
