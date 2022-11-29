@@ -14,7 +14,7 @@ class LinkedList:
 
     def print(self):
         if self.head is None:
-            print("Lined List is empty")
+            print("Linked List is empty")
             return
         itr = self.head
         llstr = ""
@@ -63,6 +63,7 @@ class LinkedList:
                 break
             itr = itr.next
             count += 1
+
 
     def insert_at(self,index,data):
         if index < 0 or index >= self.get_length():
